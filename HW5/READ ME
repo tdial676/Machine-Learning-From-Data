@@ -1,1 +1,2 @@
-
+Focused on Errors in Linear Regression, Non-Linear Transfroms of n-th order polynomials. Implemented, Gradient Descent, Logistic Regression, and 
+Stochastic Gradient Descent and compared it's performance to that or our PLA implementation.
